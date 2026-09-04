@@ -34,7 +34,7 @@ B : Try to dodge past it and run.
     if user_choice == "a":
         story = """You swing your sword and strike the Goblin down! 
 
-🎉 You defeat the enemy!
+ You defeat the enemy!
 💰 You loot 30 Gold from the Goblin.
 🗝️ In its pocket, you also find the Dungeon Key!
 
